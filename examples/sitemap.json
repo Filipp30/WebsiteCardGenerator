@@ -1,0 +1,26 @@
+[
+    {
+        "loc": "https://hh.ru",
+        "lastmod": "2020-12-14",
+        "priority": 1,
+        "changefreq": "daily"
+    },
+    {
+        "loc": "https://test.ru/news",
+        "lastmod": "2020-12-10",
+        "priority": 0.6,
+        "changefreq": "hourly"
+    },
+    {
+        "loc": "https://grigorukfilipp.org",
+        "lastmod": "2020-10-14",
+        "priority": 0.3,
+        "changefreq": "monthly"
+    },
+    {
+        "loc": "https://test.ru/news/today",
+        "lastmod": "2020-01-10",
+        "priority": 0.9,
+        "changefreq": "never"
+    }
+]

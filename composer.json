@@ -1,0 +1,22 @@
+{
+    "name": "sitemapgenerator/sitemap",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sitemapgenerator\\Sitemap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Filipp30",
+            "email": "filipp-tts@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+      "ext-simplexml": "*"
+    },
+    "require-dev": {
+    }
+}
